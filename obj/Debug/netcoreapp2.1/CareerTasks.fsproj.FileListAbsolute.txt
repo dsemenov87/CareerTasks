@@ -1,0 +1,10 @@
+C:\RepoMy\CareerTasks\bin\Debug\netcoreapp2.1\CareerTasks.deps.json
+C:\RepoMy\CareerTasks\bin\Debug\netcoreapp2.1\CareerTasks.runtimeconfig.json
+C:\RepoMy\CareerTasks\bin\Debug\netcoreapp2.1\CareerTasks.runtimeconfig.dev.json
+C:\RepoMy\CareerTasks\bin\Debug\netcoreapp2.1\CareerTasks.dll
+C:\RepoMy\CareerTasks\bin\Debug\netcoreapp2.1\CareerTasks.pdb
+C:\RepoMy\CareerTasks\obj\Debug\netcoreapp2.1\CareerTasks.fsprojAssemblyReference.cache
+C:\RepoMy\CareerTasks\obj\Debug\netcoreapp2.1\CareerTasks.AssemblyInfoInputs.cache
+C:\RepoMy\CareerTasks\obj\Debug\netcoreapp2.1\CareerTasks.AssemblyInfo.fs
+C:\RepoMy\CareerTasks\obj\Debug\netcoreapp2.1\CareerTasks.dll
+C:\RepoMy\CareerTasks\obj\Debug\netcoreapp2.1\CareerTasks.pdb
